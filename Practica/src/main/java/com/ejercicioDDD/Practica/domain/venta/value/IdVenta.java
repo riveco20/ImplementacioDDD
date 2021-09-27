@@ -1,4 +1,4 @@
 package com.ejercicioDDD.Practica.domain.venta.value;
 
-public class IdEmpleado {
+public class IdVenta {
 }
